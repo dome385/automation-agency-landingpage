@@ -1,16 +1,21 @@
-import React from "react";
 import Section from "./Section";
 import { socials } from "../constants";
 
 const Footer = () => {
   return (
     <Section crosses className="!px-0 !py-10">
-      <div className="container flex sm:justify-between justify-center items-center gap-10 max-sm:flex-col">
+      <div className="container sm:justify-between justify-center items-center gap-10 max-sm:flex-col">
+        <p className="caption text-n-4">
+          <a href="#impressum">Impressum</a>
+        </p>
+        <p className="caption text-n-4">
+          <a href="#impressum">Datenschutzerklärung</a>
+        </p>
         <p className="caption text-n-4 lg:block">
-          © {new Date().getFullYear()}. All rights reserved.
+          © {new Date().getFullYear()}. All rights reserved DonAI.
         </p>
 
-        <ul className="flex gap-5 flex-wrap">
+        <ul className="flex gap-5 flex-wrap mt-10">
           {socials.map((item) => (
             <a
               key={item.id}
