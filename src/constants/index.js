@@ -134,12 +134,12 @@ export const collabContent = [
   {
     id: "0",
     title: "24/7 Lead-Qualifizierung",
-    text: collabText,
+    
   },
   {
     id: "1",
     title: "Effektives Retargeting",
-    text: "Planen Sie regelmäßige Nachrichten, um den Empfängern Marktaktualisierungen mitzuteilen, z.B. Änderungen der Immobilienpreise oder neue Angebote oder laden Sie sie zu Immobilienseminaren ein."
+    
   },
   {
     id: "2",
@@ -148,7 +148,7 @@ export const collabContent = [
   },
   {
     id: "3",
-    title: "DSGVO geschützt",
+    title: "DSGVO geschützt.",
   },
 ];
 
@@ -251,7 +251,7 @@ export const benefits = [
   {
     id: "0",
     title: "1. Entdeckung und Prüfung",
-    text: "Wir tauchen tief in Ihr Immobiliengeschäft ein und identifizieren Bereiche, in denen KI-Chatbots und Automatisierung einen Unterschied machen können.",
+    text: "Wir tauchen tief in Ihr Unternehmen ein und identifizieren Bereiche, in denen KI-Chatbots und Automatisierungen einen Unterschied machen können.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -259,7 +259,7 @@ export const benefits = [
   {
     id: "1",
     title: "2. Strategie",
-    text: "Aus unseren Erkenntnissen erstellen wir einen Plan. Dieser Entwurf stellt sicher, dass die Tools gut in Ihren Betrieb passen. Sie sind darauf ausgelegt, Ihre Aufgaben einfacher und effizienter zu gestalten.",
+    text: "Aus unseren Erkenntnissen erstellen wir einen Plan. Dieser Plan stellt sicher, dass die Tools gut in Ihren Betrieb passen. Sie sind darauf ausgelegt, Ihre Aufgaben einfacher und effizienter zu gestalten.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -268,7 +268,7 @@ export const benefits = [
   {
     id: "2",
     title: "3. Implementierung und Optimierung",
-    text: "Wir erwecken den Entwurf zum Leben, indem wir die KI-Chatbots und Automatisierungstools integrieren und sicherstellen, dass sie konsistent einen Mehrwert lierfern. Diese Tools sind genau auf Ihre Bedürfnisse abgestimmt. Unser Ziel sind gleichbleibende Werte und reibungslose Abläufe.",
+    text: "Wir erwecken den Entwurf zum Leben, indem wir die KI-Chatbots und Automatisierungstools integrieren und sicherstellen, dass sie konsistent einen Mehrwert liefern. Diese Tools sind genau auf Ihre Bedürfnisse abgestimmt. Unser Ziel sind gleichbleibende Werte und reibungslose Abläufe.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,

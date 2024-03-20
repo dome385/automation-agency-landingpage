@@ -23,7 +23,7 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-            Boosten ⭐ Sie Ihr Immobiliengeschäft 🏠 mit <br />
+            Boosten ⭐ Sie Ihr Unternehmen mit <br />
             KI-Automatisierung und {` `} <br />
             <span className="inline-block relative">
               DonAI{" "}
@@ -36,10 +36,12 @@ const Hero = () => {
               />
             </span>
           </h1>
+          <p className="body-1 max-w-3xl mx-auto mb-2 text-n-2">
+            Eliminieren Sie bis zu 80% der sich wiederholenden Kundenanfragen.{" "}
+          </p>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Halbieren Sie Ihre Kundenservicekosten. <br /> Unsere intelligenten
-            Systeme managen Kundenafragen effizient und bieten einen rund um die
-            Uhr Support.
+            Unsere intelligenten Systeme managen Kundenanfragen effizient und
+            bieten einen rund um die Uhr Support.
           </p>
           <Button href="/pricing" white>
             Los gehts!
