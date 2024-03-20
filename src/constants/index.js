@@ -111,9 +111,9 @@ export const roadmap = [
   },
   {
     id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
-    date: "May 2023",
+    title: "Bildungs-AI-Chatbot",
+    text: "Ein Bildungs-AI-Chatbot ist ein rund um die Uhr verfügbarer, intelligenter Lernassistent, der personalisierte Unterstützung und sofortige Antworten auf akademische Fragen bietet.",
+    date: "Februar 2024",
     status: "done",
     imageUrl: roadmap3,
   },
