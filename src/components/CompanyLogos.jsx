@@ -1,12 +1,15 @@
-import { companyLogos } from "../constants";
+//import { companyLogos } from "../constants";
 
 const CompanyLogos = ({ className }) => {
   return (
     <div className={className}>
-      <h5 className="tagline mb-6 text-center text-n-1/50">
-        Helping people create beautiful content at
+      <h5 className="tagline text-center text-n-1/50">
+        &quot;KI ist nicht nur ein Trend, <br /> sondern eine Notwendigkeit für
+        Unternehmen, <br /> um wettbewerbsfähig zu bleiben und ihre Leistung zu
+        steigern.&quot; <br />
       </h5>
-      <ul className="flex">
+
+      {/*<ul className="flex">
         {companyLogos.map((logo, index) => (
           <li
             className="flex items-center justify-center flex-1 h-[8.5rem]"
@@ -15,7 +18,7 @@ const CompanyLogos = ({ className }) => {
             <img src={logo} width={134} height={28} alt={logo} />
           </li>
         ))}
-      </ul>
+      </ul>*/}
     </div>
   );
 };
