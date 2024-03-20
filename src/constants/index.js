@@ -128,21 +128,27 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "Erfassen Sie Interessenten, um Leads effizient zu qualifizieren. So können Sie hochinteressante Leads identifizieren und auf deren Bedürfnisse eingehen, noch bevor sie Kontakt aufnehmen.";
 
 export const collabContent = [
   {
     id: "0",
-    title: "Seamless Integration",
+    title: "24/7 Lead-Qualifizierung",
     text: collabText,
   },
   {
     id: "1",
-    title: "Smart Automation",
+    title: "Effektives Retargeting",
+    text: "Planen Sie regelmäßige Nachrichten, um den Empfängern Marktaktualisierungen mitzuteilen, z.B. Änderungen der Immobilienpreise oder neue Angebote oder laden Sie sie zu Immobilienseminaren ein."
   },
   {
     id: "2",
-    title: "Top-notch Security",
+    title: "Erfassen Sie die Nachfrage von mehreren Touchpoints auf einer einzigen Plattform",
+    text: "",
+  },
+  {
+    id: "3",
+    title: "DSGVO geschützt",
   },
 ];
 
