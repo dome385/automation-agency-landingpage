@@ -78,9 +78,9 @@ export const notificationImages = [notification4];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "Photo generating",
-  "Photo enhance",
-  "Seamless Integration",
+  "Konversionsraten steigern",
+  "Repetitive Fragen automatisieren",
+  "24/7 Anlaufstelle",
 ];
 
 export const brainwaveServicesIcons = [
@@ -134,16 +134,15 @@ export const collabContent = [
   {
     id: "0",
     title: "24/7 Lead-Qualifizierung",
-    
   },
   {
     id: "1",
     title: "Effektives Retargeting",
-    
   },
   {
     id: "2",
-    title: "Erfassen Sie die Nachfrage von mehreren Touchpoints auf einer einzigen Plattform",
+    title:
+      "Erfassen Sie die Nachfrage von mehreren Touchpoints auf einer einzigen Plattform",
     text: "",
   },
   {
@@ -157,14 +156,14 @@ export const collabApps = [
     id: "0",
     title: "Figma",
     icon: figma,
-    width: 26,
-    height: 36,
+    width: 50,
+    height: 50,
   },
   {
     id: "1",
     title: "Notion",
     icon: notion,
-    width: 34,
+    width: 45,
     height: 36,
   },
   {
