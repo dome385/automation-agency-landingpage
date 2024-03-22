@@ -76,7 +76,13 @@ const Hero = () => {
                 <ScrollParallax isAbsolutelyPositioned>
                   <Notification
                     className="hidden absolute -right-[5.5rem] bottom-[11rem] w-[18rem] xl:flex"
-                    title="Wie lange dauert der Versand?"
+                    title="Wo ist meine Bestellung?"
+                  />
+                </ScrollParallax>
+                <ScrollParallax isAbsolutelyPositioned>
+                  <Notification
+                    className="hidden absolute -right-[1rem] bottom-[20rem] w-[18rem] xl:flex"
+                    title="Wann ist CheckOut?"
                   />
                 </ScrollParallax>
               </div>

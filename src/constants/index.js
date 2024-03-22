@@ -137,7 +137,7 @@ export const collabContent = [
   },
   {
     id: "1",
-    title: "Effektives Retargeting",
+    title: "Anbindung an WhatsApp / Instagram / Telegram uvm. ",
   },
   {
     id: "2",
