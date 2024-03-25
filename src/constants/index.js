@@ -120,7 +120,7 @@ export const roadmap = [
   {
     id: "3",
     title: "API Integration",
-    text: "Ermöglichen Sie dem Chatbot den Zugriff auf externe Datenquelle um auf Dokumente zuzugreifen oder Automationen zu triggern.",
+    text: "Ermöglichen Sie dem Chatbot den Zugriff auf externe Datenquellen um auf Dokumente zuzugreifen oder Automationen zu triggern.",
     date: "März 2024",
     status: "progress",
     imageUrl: roadmap4,
