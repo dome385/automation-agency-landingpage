@@ -25,7 +25,7 @@ import {
   recording01,
   recording03,
   roadmap1,
-  roadmap2,
+  //roadmap2,
   roadmap3,
   roadmap4,
   searchMd,
@@ -39,7 +39,7 @@ import {
 export const navigation = [
   {
     id: "0",
-    title: "Features",
+    title: "Ablauf",
     url: "#features",
   },
   {

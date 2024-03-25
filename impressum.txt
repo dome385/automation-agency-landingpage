@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Test</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='/src/index.css'>
+    <!-- <script src='/components/main.jsx'></script> -->
+</head>
+<body>
+    <div class="container relative">
+        <div class="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
+            <h1 class="mt-10 text-n-2 text-6xl">Impressum</h1>
+            <p>Dominik Niestroj</p>
+            <p>Vorderheide 11</p>
+            <p>59558 Lippstadt</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -6,7 +6,7 @@ const Footer = () => {
     <Section crosses className="!px-0 !py-10">
       <div className="container sm:justify-between justify-center items-center gap-10 max-sm:flex-col">
         <p className="caption text-n-4">
-          <a href="#impressum">Impressum</a>
+          <a href="/impressum">Impressum</a>
         </p>
         <p className="caption text-n-4">
           <a href="#impressum">Datenschutzerklärung</a>
