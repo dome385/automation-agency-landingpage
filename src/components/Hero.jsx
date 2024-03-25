@@ -43,7 +43,7 @@ const Hero = () => {
             Unsere intelligenten Systeme managen Kundenanfragen effizient und
             bieten einen rund um die Uhr Support.
           </p>
-          <Button href="/pricing" white>
+          <Button href="" white>
             Los gehts!
           </Button>
         </div>

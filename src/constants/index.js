@@ -40,7 +40,7 @@ export const navigation = [
   {
     id: "0",
     title: "Ablauf",
-    url: "#features",
+    url: "#ablauf",
   },
  /*  {
     id: "1",
@@ -50,14 +50,14 @@ export const navigation = [
   {
     id: "2",
     title: "Dienstleistungen",
-    url: "#how-to-use",
+    url: "#dienstleistungen",
   },
   {
     id: "3",
     title: "Roadmap",
     url: "#roadmap",
   },
-  {
+ /*  {
     id: "4",
     title: "New account",
     url: "#signup",
@@ -68,7 +68,7 @@ export const navigation = [
     title: "Sign in",
     url: "#login",
     onlyMobile: true,
-  },
+  }, */
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
