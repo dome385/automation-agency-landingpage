@@ -42,14 +42,14 @@ export const navigation = [
     title: "Ablauf",
     url: "#features",
   },
-  {
+ /*  {
     id: "1",
-    title: "Pricing",
+    title: "Dienstleistungen",
     url: "#pricing",
-  },
+  }, */
   {
     id: "2",
-    title: "How to use",
+    title: "Dienstleistungen",
     url: "#how-to-use",
   },
   {
@@ -96,7 +96,7 @@ export const roadmap = [
     id: "0",
     title: "AI Sales Bot um Leads anzurufen",
     text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "May 2023",
+    date: "März 2024",
     status: "done",
     imageUrl: roadmap1,
     colorful: true,
@@ -121,7 +121,7 @@ export const roadmap = [
     id: "3",
     title: "API Integration",
     text: "Ermöglichen Sie dem Chatbot den Zugriff auf externe Datenquelle um auf Dokumente zuzugreifen oder Automationen zu triggern.",
-    date: "May 2023",
+    date: "März 2024",
     status: "progress",
     imageUrl: roadmap4,
   },
