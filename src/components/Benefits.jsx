@@ -64,6 +64,11 @@ const Benefits = () => {
           ))}
         </div>
       </div>
+      <h5 className="mt-10 tagline text-center text-n-1/50">
+        Unternehmen, die fortschrittliche Automatisierungstechnologien
+        einsetzen, <br /> haben eine sechsfach höhere Chance, signifikantes
+        Umsatzwachstum zu erzielen.
+      </h5>
     </Section>
   );
 };

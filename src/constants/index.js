@@ -127,28 +127,32 @@ export const roadmap = [
   },
 ];
 
+export const collabText2 = 
+  "Ihr Geschäft besteht darin, Ihren Kunden Ergebnisse zu liefern";
+
 export const collabText =
-  "Erfassen Sie Interessenten, um Leads effizient zu qualifizieren. So können Sie hochinteressante Leads identifizieren und auf deren Bedürfnisse eingehen, noch bevor sie Kontakt aufnehmen.";
+  "Ihre Aufgabe besteht nicht darin, Dokumente vorzubereiten, Tabellenkalkulationen auszufüllen, Daten zu kopieren oder jeden Tag die gleichen E-Mails zu schreiben. ";
+
 
 export const collabContent = [
   {
     id: "0",
-    title: "24/7 Lead-Qualifizierung",
+    title: "Fokus auf strategische Arbeit statt auf manuelle Arbeit.",
   },
   {
     id: "1",
-    title: "Anbindung an WhatsApp / Instagram / Telegram uvm. ",
+    title: "Keine Engpässe oder Verzögerungen mehr.",
   },
   {
     id: "2",
     title:
-      "Erfassen Sie die Nachfrage von mehreren Touchpoints auf einer einzigen Plattform",
+      "Produktivität pro Mitarbeiter steigern.",
     text: "",
   },
-  {
+ /*  {
     id: "3",
     title: "DSGVO geschützt.",
-  },
+  }, */
 ];
 
 export const collabApps = [
