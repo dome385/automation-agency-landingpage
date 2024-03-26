@@ -78,7 +78,7 @@ export const notificationImages = [notification4];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "Kundenservice-Chatbots",
+  "KI-Kundenservice-Chatbots",
   "Zahlung & Verträge",
   "Kunden-Onboarding",
   "Mitarbeiter-Onboarding",

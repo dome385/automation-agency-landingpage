@@ -9,7 +9,7 @@ const Footer = () => {
           <a href="/impressum">Impressum</a>
         </p>
         <p className="caption text-n-4">
-          <a href="#impressum">Datenschutzerklärung</a>
+          <a href="/datenschutz">Datenschutzerklärung</a>
         </p>
         <p className="caption text-n-4 lg:block">
           © {new Date().getFullYear()}. All rights reserved DonAI.
