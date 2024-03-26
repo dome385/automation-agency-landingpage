@@ -1,6 +1,6 @@
 import Section from "./Section";
-//import Heading from "./Heading";
-import { service2, service3, check, service0 } from "../assets";
+import Heading from "./Heading";
+import { service2, service3, check, service1 } from "../assets";
 import { brainwaveServices, brainwaveServicesIcons } from "../constants";
 import {
   PhotoChatMessage,
@@ -15,29 +15,30 @@ const Services = () => {
   return (
     <Section id="dienstleistungen">
       <div className="container">
-        {/*  <Heading
-          title="Generative AI made for creators."
-          text="Brainwave unlocks the potential of AI-powered applications"
-        /> */}
+        <Heading
+          title="Lassen Sie uns gemeinsam skalieren."
+          text="Wir vereinen KI und Automatisierung, um Ihre Apps zu vernetzen und Aktionen automatisch auszuführen, was manuelle Arbeit ersetzt und Effizienz sowie Kundenerlebnis deutlich verbessert – maßgeschneidert und komplett für Sie."
+        />
 
         <div className="relative">
           <div className="relative z-1 flex items-center h-[39rem] mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]">
             <div className="absolute top-0 left-0 w-full h-full pointer-events-none md:w-3/5 xl:w-auto">
               <img
-                className="mt-[120px] object-cover md:object-right max-sm:hidden"
+                className="w-full h-full object-cover md:object-right"
                 width={800}
                 alt="Smartest AI"
                 height={730}
-                src={service0}
+                src={service1}
               />
             </div>
 
             <div className="relative z-1 max-w-[20rem] ml-auto">
-              <h4 className="h4 mb-4">Customer Experience verbessern!</h4>
-              <p className="body-2 mb-[3rem] text-n-3">
-                Helfen Sie Kunden sich besser in Ihrem Shop zurechtzufinden, und
-                steigern Sie die Zufriedenheit.
-              </p>
+              <h4 className="h4 mb-4">Unsere Automatisierungen</h4>
+              {/* <p className="body-2 mb-[3rem] text-n-3">
+                Wir integrieren Ihre Apps und automatisieren Ihre Prozesse, um
+                zeitraubende Arbeiten zu beenden und die Produktivität in Ihrem
+                gesamten Unternehmen zu steigern.
+              </p> */}
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (
                   <li

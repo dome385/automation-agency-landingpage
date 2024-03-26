@@ -78,9 +78,12 @@ export const notificationImages = [notification4];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "Konversionsraten steigern",
-  "Repetitive Fragen automatisieren",
-  "24/7 Anlaufstelle",
+  "Kundenservice-Chatbots",
+  "Zahlung & Verträge",
+  "Kunden-Onboarding",
+  "Mitarbeiter-Onboarding",
+  "Angebotserstellung",
+  "Projektmanagement",
 ];
 
 export const brainwaveServicesIcons = [
@@ -128,7 +131,7 @@ export const roadmap = [
 ];
 
 export const collabText2 = 
-  "Ihr Geschäft besteht darin, Ihren Kunden Ergebnisse zu liefern";
+  "Ihr Geschäft besteht darin, Ihren Kunden Ergebnisse zu liefern.";
 
 export const collabText =
   "Ihre Aufgabe besteht nicht darin, Dokumente vorzubereiten, Tabellenkalkulationen auszufüllen, Daten zu kopieren oder jeden Tag die gleichen E-Mails zu schreiben. ";
