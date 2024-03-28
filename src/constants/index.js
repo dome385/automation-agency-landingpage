@@ -42,7 +42,7 @@ export const navigation = [
     title: "Ablauf",
     url: "#ablauf",
   },
- /*  {
+  /*  {
     id: "1",
     title: "Dienstleistungen",
     url: "#pricing",
@@ -57,7 +57,7 @@ export const navigation = [
     title: "Roadmap",
     url: "#roadmap",
   },
- /*  {
+  /*  {
     id: "4",
     title: "New account",
     url: "#signup",
@@ -78,8 +78,7 @@ export const notificationImages = [notification4];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "KI-Kundenservice-Chatbots",
-  "Zahlung & Verträge",
+  "KI-Service-Chatbots",
   "Kunden-Onboarding",
   "Mitarbeiter-Onboarding",
   "Angebotserstellung",
@@ -95,15 +94,6 @@ export const brainwaveServicesIcons = [
 ];
 
 export const roadmap = [
-  {
-    id: "0",
-    title: "AI Sales Bot um Leads anzurufen",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "März 2024",
-    status: "done",
-    imageUrl: roadmap1,
-    colorful: true,
-  },
   /*  {
     id: "1",
     title: "Gamification",
@@ -114,28 +104,36 @@ export const roadmap = [
   }, */
   {
     id: "2",
-    title: "Bildungs-AI-Chatbot",
+    title: "Intelligenter Bildungs Chatbot",
     text: "Ein Bildungs-AI-Chatbot ist ein rund um die Uhr verfügbarer, intelligenter Lernassistent, der personalisierte Unterstützung und sofortige Antworten auf akademische Fragen bietet.",
     date: "Februar 2024",
     status: "done",
     imageUrl: roadmap3,
+    colorful: true,
   },
   {
     id: "3",
     title: "API Integration",
     text: "Ermöglichen Sie dem Chatbot den Zugriff auf externe Datenquellen um auf Dokumente zuzugreifen oder Automationen zu triggern.",
     date: "März 2024",
-    status: "progress",
+    status: "done",
     imageUrl: roadmap4,
   },
+  /*  {
+    id: "4",
+    title: "Onboarding neuer Mitarbeiter",
+    text: "Automatisiert neue Mitarbeiter durch alle notwendigen Schritte führen - von der Vertragsunterzeichnung über die Erstellung eines neuen Datensatzes bis zum Versenden von E-Mails mit Dokumenten zu wichtigen Ressourcen.",
+    date: "März 2024",
+    status: "progress",
+    imageUrl: roadmap1,
+  }, */
 ];
 
-export const collabText2 = 
+export const collabText2 =
   "Ihr Geschäft besteht darin, Ihren Kunden Ergebnisse zu liefern.";
 
 export const collabText =
   "Ihre Aufgabe besteht nicht darin, Dokumente vorzubereiten, Tabellenkalkulationen auszufüllen, Daten zu kopieren oder jeden Tag die gleichen E-Mails zu schreiben. ";
-
 
 export const collabContent = [
   {
@@ -148,11 +146,10 @@ export const collabContent = [
   },
   {
     id: "2",
-    title:
-      "Produktivität pro Mitarbeiter steigern.",
+    title: "Produktivität pro Mitarbeiter steigern.",
     text: "",
   },
- /*  {
+  /*  {
     id: "3",
     title: "DSGVO geschützt.",
   }, */

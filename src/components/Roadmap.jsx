@@ -1,4 +1,4 @@
-import Button from "./Button";
+//import Button from "./Button";
 import Heading from "./Heading";
 import Section from "./Section";
 import Tagline from "./Tagline";
@@ -50,9 +50,9 @@ const Roadmap = () => (
 
                   <div className="mb-10 -my-10 -mx-15">
                     <img
-                      className="w-full"
+                      className=""
                       src={item.imageUrl}
-                      width={628}
+                      width={550}
                       height={426}
                       alt={item.title}
                     />

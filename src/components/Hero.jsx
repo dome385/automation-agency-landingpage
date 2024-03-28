@@ -26,7 +26,7 @@ const Hero = () => {
             Boosten ⭐ Sie Ihr Unternehmen mit <br />
             KI-Automatisierung und {` `}
             <span className="inline-block relative">
-              DoFlowAI{" "}
+              DoFlow{" "}
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-2"

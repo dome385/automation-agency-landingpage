@@ -33,7 +33,13 @@ const Collaboration = () => {
             ))}
           </ul>
 
-          <Button>Kontaktieren Sie uns!</Button>
+          <Button
+            onClick={() =>
+              window.open("https://calendly.com/dominik-niestroj/beratung")
+            }
+          >
+            Kontaktieren Sie uns!
+          </Button>
         </div>
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">

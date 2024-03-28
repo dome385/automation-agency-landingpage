@@ -73,7 +73,12 @@ const Header = () => {
         >
           Dienstleistungen
         </a> */}
-        <Button className="hidden lg:flex" href="#login">
+        <Button
+          className="hidden lg:flex"
+          onClick={() =>
+            window.open("https://calendly.com/dominik-niestroj/beratung")
+          }
+        >
           Kontakt
         </Button>
 
