@@ -5,6 +5,7 @@ import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import App from "./App.jsx";
 import "./index.css";
 import Impressum from "./components/Impressum.jsx";
+import AirbnbChat from "./components/AirbnbChat.jsx";
 import Datenschutz from "./components/Datenschutz.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -14,6 +15,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <Route exact path="/" element={<App />} />
         <Route path="/impressum" element={<Impressum />} />
         <Route path="/datenschutz" element={<Datenschutz />} />
+        <Route path="/airbnb-chat" element={<AirbnbChat />} />
       </Routes>
     </Router>
   </React.StrictMode>

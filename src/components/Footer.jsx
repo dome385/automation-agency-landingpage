@@ -16,7 +16,12 @@ const Footer = () => {
             Blog
           </a>
         </p>
-        <p className="caption text-n-4 lg:block text-center">
+        <p className="caption text-n-4 text-center">
+          <a target="_blank" href="/airbnb-chat">
+            Airbnb-KI-Chatlösung
+          </a>
+        </p>
+        <p className="caption text-n-4 lg:block text-left">
           © {new Date().getFullYear()}. All rights reserved DonAI.
         </p>
 
