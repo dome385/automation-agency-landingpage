@@ -30,67 +30,74 @@ const Datenschutz = () => {
         <Heading tag="" title="Datenschutzerklärung" />
 
         <p className="p text-center mb-6">
-          DonAI <br />
-          Dominik Niestroj <br />
-          Vorderheide 11 <br />
-          <p className="mb-8">59558 Lippstadt</p>
-          Vertreten durch: <br />
-          Dominik Niestroj <br />
-          Kontakt: <br />
-          Telefon: 0176-6886934 <br /> E-Mail: dominik.niestroj@gmail.com <br />
+          1. Allgemeines <br />
+          Die Datenschutzerklärung informiert Sie als Nutzer dieser Website über
+          die Art, den Umfang und Zwecke der Erhebung und Verwendung
+          personenbezogener Daten durch die KI-Automatisierungen und
+          Chatbot-Agentur (nachfolgend „wir“ oder „uns“). Der Schutz Ihrer
+          persönlichen Daten ist uns ein wichtiges Anliegen. Ihre Daten werden
+          im Einklang mit den gesetzlichen Datenschutzvorschriften sowie dieser
+          Datenschutzerklärung behandelt.
         </p>
         <p className="mt-4 text-center">
-          Haftungsausschluss: <br />
-          Urheberrecht <br /> Die durch die Seitenbetreiber erstellten Inhalte
-          und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht.
-          Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der
-          Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der
-          schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
-          Downloads und Kopien dieser Seite sind nur für den privaten, nicht
-          kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite
-          nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter
-          beachtet. Insbesondere werden Inhalte Dritter als solche
-          gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung
-          aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei
-          Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte
-          umgehend entfernen. <br />
-          Datenschutz <br /> Die Nutzung unserer Webseite ist in der Regel ohne
-          Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten
-          personenbezogene Daten (beispielsweise Name, Anschrift oder
-          eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets
-          auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche
-          Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass
-          die Datenübertragung im Internet (z.B. bei der Kommunikation per
-          E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der
-          Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von
-          im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch
-          Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung
-          und Informationsmaterialien wird hiermit ausdrücklich widersprochen.
-          Die Betreiber der Seiten behalten sich ausdrücklich rechtliche
-          Schritte im Falle der unverlangten Zusendung von Werbeinformationen,
-          etwa durch Spam-Mails, vor. <br /> Google Analytics <br /> Diese
-          Website benutzt Google Analytics, einen Webanalysedienst der Google
-          Inc. Google. Google Analytics verwendet sog. Cookies, Textdateien, die
-          auf Ihrem Computer gespeichert werden und die eine Analyse der
-          Benutzung der Website durch Sie ermöglicht. Die durch den Cookie
-          erzeugten Informationen über Ihre Benutzung dieser Website
-          (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in
-          den USA übertragen und dort gespeichert. Google wird diese
-          Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um
-          Reports über die Websiteaktivitäten für die Websitebetreiber
-          zusammenzustellen und um weitere mit der Websitenutzung und der
-          Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird
-          Google diese Informationen gegebenenfalls an Dritte übertragen, sofern
-          dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im
-          Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre
-          IP-Adresse mit anderen Daten der Google in Verbindung bringen. Sie
-          können die Installation der Cookies durch eine entsprechende
-          Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch
-          darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche
-          Funktionen dieser Website voll umfänglich nutzen können. Durch die
-          Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über
-          Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und
-          Weise und zu dem zuvor benannten Zweck einverstanden.
+          2. Verantwortlicher <br />
+          Verantwortlich für die Datenverarbeitung auf dieser Website ist:{" "}
+          <br />
+          Doflow - Dominik Niestroj Vorderheide 11 59558 Lippstadt <br />
+          3. Erhebung und Verarbeitung personenbezogener Daten Personenbezogene
+          Daten sind Informationen, die dazu genutzt werden können, Ihre
+          Identität zu erfahren, wie z.B. Ihr Name, Ihre E-Mail-Adresse oder
+          Ihre Telefonnummer. Wir erheben und nutzen Ihre personenbezogenen
+          Daten ausschließlich im Rahmen der Bestimmungen des Datenschutzrechts
+          der Bundesrepublik Deutschland.
+          <br /> 3.1 Besuch der Website
+          <br /> Bei jedem Zugriff auf unsere Website und bei jedem Abruf einer
+          Datei werden Zugriffsdaten über diesen Vorgang in einer Protokolldatei
+          auf unserem Server gespeichert. Zu den gespeicherten Daten gehören:
+          Ihre IP-Adresse Datum und Uhrzeit des Zugriffs Name der abgerufenen
+          Datei Übertragene Datenmenge Meldung über erfolgreichen Abruf
+          Webbrowser und anfragende Domain Diese Daten werden ausschließlich zur
+          technischen Analyse und zur Sicherstellung des Betriebs der Website
+          verwendet und anschließend gelöscht. <br /> 3.2 Nutzung von Chatbots
+          und KI-Automatisierungen
+          <br /> Wenn Sie unsere Chatbots oder KI-Automatisierungen nutzen,
+          können zusätzliche Daten erhoben werden, wie z.B.: Eingegebene Texte
+          oder Befehle Nutzungsmuster und Interaktionen mit dem Chatbot
+          Technische Daten wie Gerätetyp und Betriebssystem Diese Daten werden
+          zur Verbesserung unserer Dienste und zur personalisierten
+          Kommunikation verwendet.
+          <br /> 4. Einsatz von Google als Drittanbieter
+          <br /> Unsere Website nutzt verschiedene Dienste von Google LLC
+          („Google“), wie Google Analytics, Google AdSense und Google reCAPTCHA.
+          Diese Dienste sammeln Daten über Ihre Nutzung unserer Website, die von
+          Google verarbeitet und gespeichert werden. Die Nutzung dieser
+          Google-Dienste ermöglicht es uns, unsere Website zu analysieren, vor
+          Missbrauch zu schützen und unsere Werbemaßnahmen zu optimieren.
+          <br /> 4.1 Google Analytics
+          <br /> Google Analytics verwendet so genannte „Cookies“, Textdateien,
+          die auf Ihrem Computer gespeichert werden und die eine Analyse der
+          Benutzung der Website durch Sie ermöglichen. Die durch den Cookie
+          erzeugten Informationen über Ihre Benutzung dieser Website werden in
+          der Regel an einen Server von Google in den USA übertragen und dort
+          gespeichert.
+          <br /> 5. Weitergabe von Daten
+          <br /> Ihre personenbezogenen Daten werden ohne Ihre ausdrückliche
+          Zustimmung nicht an Dritte weitergegeben, es sei denn, wir sind
+          gesetzlich dazu verpflichtet.
+          <br /> 6. Ihre Rechte
+          <br /> Sie haben das Recht, Auskunft über die bei uns gespeicherten
+          personenbezogenen Daten zu erhalten. Zusätzlich haben Sie das Recht
+          auf Berichtigung unrichtiger Daten, Sperrung und Löschung Ihrer
+          personenbezogenen Daten, soweit dem keine gesetzliche
+          Aufbewahrungspflicht entgegensteht.
+          <br /> 7. Änderungen dieser Datenschutzerklärung <br />
+          Wir behalten uns vor, diese Datenschutzerklärung zu ändern, um sie an
+          geänderte Rechtslagen oder Änderungen des Dienstes sowie der
+          Datenverarbeitung anzupassen. Die aktuelle Version finden Sie stets
+          auf dieser Seite.
+          <br /> 8. Kontakt Bei Fragen zum Datenschutz <br />
+          wenden Sie sich bitte an die oben genannte Adresse oder per E-Mail an
+          uns. <br /> Stand: 01.04.2024
         </p>
 
         <div className="relative">
