@@ -8,9 +8,9 @@
       href="/assets/brainwave-symbol-BpglIlwE.svg"
     />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>DoFlow - KI-Agentur</title>
-    <script type="module" crossorigin src="/assets/index-CmBeT1Ad.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-CASREHPO.css">
+    <title>DoFlow - Agentur für KI Automatisierungslösungen und Chatbots</title>
+    <script type="module" crossorigin src="/assets/index-CMixXAh0.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BuMZlGiZ.css">
   </head>
   <body>
     <div id="root"></div>
@@ -21,11 +21,21 @@
         var v = d.createElement(t),
           s = d.getElementsByTagName(t)[0];
         v.onload = function () {
-          window.voiceflow.chat.load({
-            verify: { projectID: "6605e1d0e773c6d866e27b2d" },
-            url: "https://general-runtime.voiceflow.com",
-            versionID: "production",
-          });
+          window.voiceflow.chat
+            .load({
+              verify: { projectID: "6605e1d0e773c6d866e27b2d" },
+              url: "https://general-runtime.voiceflow.com",
+              versionID: "production",
+            })
+            .then(() => {
+              window.voiceflow.chat.proactive.push({
+                type: "text",
+                payload: {
+                  message:
+                    "Starten Sie die Revolution Ihres Unternehmens – klicken Sie hier, um mit unserem Chatbot zu sprechen!",
+                },
+              });
+            });
         };
         v.src = "https://cdn.jsdelivr.net/gh/dome385/bundle/bundle.mjs";
         v.type = "text/javascript";
