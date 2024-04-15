@@ -119,6 +119,14 @@ export const roadmap = [
     status: "done",
     imageUrl: roadmap4,
   },
+  {
+    id: "3",
+    title: "E-Commerce Social Media Automation",
+    text: "Ermöglichen Sie dem Chatbot den Zugriff auf externe Datenquellen um auf Dokumente zuzugreifen oder Automationen zu triggern.",
+    date: "März 2024",
+    status: "done",
+    imageUrl: roadmap3,
+  },
   /*  {
     id: "4",
     title: "Onboarding neuer Mitarbeiter",
