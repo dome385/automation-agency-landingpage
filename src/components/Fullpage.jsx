@@ -9,7 +9,7 @@ import Roadmap from "../components/Roadmap";
 import Services from "../components/Services";
 import { CookieModal } from "@schlomoh/react-cookieconsent";
 
-const Content = () => (
+/* const Content = () => (
   <>
     <h3>Wir verwenden Cookies.</h3>
     <p>
@@ -29,17 +29,17 @@ const Content = () => (
       Vorlieben.
     </p>
   </>
-);
+); */
 
 const Fullpage = () => {
   return (
     <>
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
-        <CookieModal
+        {/*  <CookieModal
           infoContent={<Content />}
           acceptButtonText="Akzeptieren"
           declineButtonText="Ablehnen"
-        />
+        /> */}
         <Header />
         <Hero />
         <Benefits />
