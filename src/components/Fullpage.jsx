@@ -7,7 +7,7 @@ import Hero from "../components/Hero";
 //import Pricing from "./components/Pricing";
 import Roadmap from "../components/Roadmap";
 import Services from "../components/Services";
-import { CookieModal } from "@schlomoh/react-cookieconsent";
+//import { CookieModal } from "@schlomoh/react-cookieconsent";
 
 /* const Content = () => (
   <>
