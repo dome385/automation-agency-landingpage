@@ -34,6 +34,8 @@ import {
   //telegram,
   twitter,
   yourlogo,
+  youtube,
+  linkedin,
 } from "../assets";
 
 export const navigation = [
@@ -312,34 +314,34 @@ export const benefits = [
 ];
 
 export const socials = [
-  /* {
+  {
     id: "0",
-    title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
-  }, */
+    title: "YouTube",
+    iconUrl: youtube,
+    url: "https://www.youtube.com/@doflowAI",
+  },
   {
     id: "1",
-    title: "Twitter",
-    iconUrl: twitter,
-    url: "#",
+    title: "Linkedin",
+    iconUrl: linkedin,
+    url: "https://www.linkedin.com/in/dominik-n-1357a8264/",
   },
   {
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/doflow_ai/",
   },
-  /* {
+  {
     id: "3",
-    title: "Telegram",
-    iconUrl: telegram,
-    url: "#",
-  }, */
+    title: "Twitter",
+    iconUrl: twitter,
+    url: "https://twitter.com/dotion44",
+  },
   {
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/profile.php?id=61557693307058",
   },
 ];
