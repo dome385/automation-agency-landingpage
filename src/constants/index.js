@@ -123,8 +123,8 @@ export const roadmap = [
   },
   {
     id: "3",
-    title: "E-Commerce Social Media Automation",
-    text: "Ermöglichen Sie dem Chatbot den Zugriff auf externe Datenquellen um auf Dokumente zuzugreifen oder Automationen zu triggern.",
+    title: "Social Media Automation",
+    text: "Generieren und Posten von Beiträgen aus einer Airtable Tabelle auf jegliche Portale",
     date: "März 2024",
     status: "done",
     imageUrl: roadmap3,
