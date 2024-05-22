@@ -325,7 +325,7 @@ export const socials = [
     title: "Linkedin",
     iconUrl: linkedin,
     url: "https://www.linkedin.com/in/dominik-n-1357a8264/",
-  },
+  }/* ,
   {
     id: "2",
     title: "Instagram",
@@ -343,5 +343,5 @@ export const socials = [
     title: "Facebook",
     iconUrl: facebook,
     url: "https://www.facebook.com/profile.php?id=61557693307058",
-  },
+  }, */
 ];

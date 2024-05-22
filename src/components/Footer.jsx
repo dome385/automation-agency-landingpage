@@ -11,11 +11,11 @@ const Footer = () => {
         <p className="caption text-n-4 text-right">
           <a href="/datenschutz">Datenschutzerklärung</a>
         </p>
-        <p className="caption text-n-4 text-right">
+        {/* <p className="caption text-n-4 text-right">
           <a target="_blank" href="https://www.dotion.de">
             Blog
           </a>
-        </p>
+        </p> */}
         {/* <p className="caption text-n-4 text-center">
           <a target="_blank" href="/airbnb-chat">
             Airbnb-KI-Chatlösung
