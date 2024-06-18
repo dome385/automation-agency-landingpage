@@ -54,11 +54,11 @@ export const navigation = [
     title: "Dienstleistungen",
     url: "#dienstleistungen",
   },
-  {
+  /*  {
     id: "3",
     title: "Roadmap",
     url: "#roadmap",
-  },
+  }, */
   /*  {
     id: "4",
     title: "New account",
@@ -80,10 +80,10 @@ export const notificationImages = [notification4];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "KI-Service-Chatbots",
+  "Online-Terminbuchungssysteme",
   "Kunden-Onboarding",
   "Mitarbeiter-Onboarding",
-  "Angebotserstellung",
+  "CRM-Automatisierung",
   "Projektmanagement",
 ];
 
@@ -325,7 +325,7 @@ export const socials = [
     title: "Linkedin",
     iconUrl: linkedin,
     url: "https://www.linkedin.com/in/dominik-n-1357a8264/",
-  }/* ,
+  } /* ,
   {
     id: "2",
     title: "Instagram",
@@ -343,5 +343,5 @@ export const socials = [
     title: "Facebook",
     iconUrl: facebook,
     url: "https://www.facebook.com/profile.php?id=61557693307058",
-  }, */
+  }, */,
 ];

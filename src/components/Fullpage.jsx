@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 import Header from "../components/Header";
 import Hero from "../components/Hero";
 //import Pricing from "./components/Pricing";
-import Roadmap from "../components/Roadmap";
+//import Roadmap from "../components/Roadmap";
 import Services from "../components/Services";
 import CookieConsent from "react-cookie-consent";
 
@@ -29,10 +29,11 @@ const Fullpage = () => {
         <Header />
         <Hero />
         <Benefits />
-        <Collaboration />
         <Services />
-        {/*<Pricing />*/}
-        <Roadmap />
+        <Collaboration />
+
+        {/* <Pricing /> */}
+        {/*  <Roadmap /> */}
         <Footer />
       </div>
 

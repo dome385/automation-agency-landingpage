@@ -17,7 +17,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Lassen Sie uns gemeinsam skalieren."
-          text="Wir vereinen KI und Automatisierung, um Ihre Apps zu vernetzen und Aktionen automatisch auszuführen, was manuelle Arbeit ersetzt und Effizienz sowie Kundenerlebnis deutlich verbessert – maßgeschneidert und komplett für Sie."
+          text="Wir vereinen Automatisierung und künstliche Intelligenz, um Ihre Apps zu vernetzen und Aktionen automatisch auszuführen."
         />
 
         <div className="relative">
