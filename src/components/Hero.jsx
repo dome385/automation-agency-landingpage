@@ -23,10 +23,11 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-            Boosten ⭐ Sie Ihr Unternehmen mit <br />
-            KI-Automatisierung und {` `}
+            Steigern Sie Umsatz, Effizienz und Kundenzufriedenheit mit
+            <br />
+            {` `}
             <span className="inline-block relative">
-              DoFlow{" "}
+              DoFlow .
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-2"
@@ -37,8 +38,8 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-2 text-n-2">
-            Wir automatisieren Ihre Arbeitsabläufe für eine hochprofitable
-            Skalierung. <br /> ⭐ Individuell und schlüsselfertig ⭐<br />
+            ⭐ Wir sind Experten für innovative Automatisisierungslösungen, die
+            lokale Unternehmen voranbringen.⭐ <br />
           </p>
 
           <Button href="" white>

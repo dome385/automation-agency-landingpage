@@ -264,7 +264,7 @@ export const benefits = [
   {
     id: "0",
     title: "1. Entdeckung und Prüfung",
-    text: "Wir tauchen tief in Ihr Unternehmen ein und identifizieren Bereiche, in denen KI-Chatbots und Automatisierungen einen Unterschied machen können.",
+    text: "Wir tauchen tief in Ihr Unternehmen ein und identifizieren Bereiche, in denen Automatisierungen und Künstliche Intelligenz einen Unterschied machen können.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
