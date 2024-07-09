@@ -7,11 +7,6 @@
 
 **DoFlowAI** ist darauf spezialisiert, den Umsatz, die Effizienz und die Kundenzufriedenheit Ihres Unternehmens durch innovative Automatisierungslösungen zu steigern, die speziell für lokale Unternehmen entwickelt wurden.
 
-## Inhaltsverzeichnis
-
-- [Erste Schritte](#erste-schritte)
-- [Verwendung](#verwendung)
-
 
 ## Erste Schritte
 
