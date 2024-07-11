@@ -38,7 +38,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-2 text-n-2">
-            ⭐ Wir sind Experten für innovative Automatisisierungslösungen, die
+            ⭐ Wir sind Experten für innovative Automatisierungslösungen, die
             lokale Unternehmen voranbringen.⭐ <br />
           </p>
 
