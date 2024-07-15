@@ -1,6 +1,8 @@
 import { check } from "../assets";
 import { pricing } from "../constants";
 import Button from "./Button";
+import ed from "../assets/pricing/ed.jpg";
+import profile from "../assets/pricing/profile.png";
 
 const PricingList = () => {
   return (
@@ -22,7 +24,7 @@ const PricingList = () => {
                 {/* <div className="h3">$</div> */}
                 <div className="text-[5.5rem] leading-none font-bold">
                   <img
-                    src="src\assets\pricing\profile.png"
+                    src={profile}
                     width={150}
                     height={150}
                     className="mb-6 rounded-md"
@@ -71,7 +73,7 @@ const PricingList = () => {
                 {/* <div className="h3">$</div> */}
                 <div className="text-[5.5rem] leading-none font-bold">
                   <img
-                    src="src\assets\pricing\ed.jpg"
+                    src={ed}
                     width={150}
                     height={150}
                     className="mb-6 rounded-md"
