@@ -23,7 +23,7 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-            Steigern Sie Umsatz, Effizienz und Kundenzufriedenheit mit
+            Steigern Sie Umsatz, Effizienz & Kundenzufriedenheit mit
             <br />
             {` `}
             <span className="inline-block relative">
@@ -42,8 +42,8 @@ const Hero = () => {
             lokale Unternehmen voranbringen.⭐ <br />
           </p>
 
-          <Button href="" white>
-            Los gehts!
+          <Button href="https://calendly.com/dominik-niestroj/beratung" white>
+            Termin vereinbaren
           </Button>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">

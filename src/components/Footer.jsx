@@ -22,7 +22,7 @@ const Footer = () => {
           </a>
         </p> */}
         <p className="caption text-n-4 lg:block text-left">
-          © {new Date().getFullYear()}. All rights reserved DonAI.
+          © {new Date().getFullYear()}. All rights reserved DoFlow.
         </p>
 
         <ul className="flex gap-5 flex-wrap mt-10">
