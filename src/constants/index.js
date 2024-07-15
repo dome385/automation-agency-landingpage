@@ -44,11 +44,11 @@ export const navigation = [
     title: "Ablauf",
     url: "#ablauf",
   },
-  /*  {
+  {
     id: "1",
-    title: "Dienstleistungen",
+    title: "Über Uns",
     url: "#pricing",
-  }, */
+  },
   {
     id: "2",
     title: "Dienstleistungen",
@@ -227,27 +227,25 @@ export const collabApps = [
 export const pricing = [
   {
     id: "0",
-    title: "Basic",
-    description: "AI chatbot, personalized recommendations",
+    title: "Dominik Niestroj",
+    /* description: "Automatisierungsexperte und Entwickler", */
     price: "0",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Dashboard- und Front-End Entwickler.",
+      "Experte in der Integration von KI-gestützten Systemen.",
     ],
   },
   {
     id: "1",
-    title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
-    price: "9.99",
+    title: "Eduard Bauer",
+    /* description: "Advanced AI chatbot, priority support, analytics dashboard", */
+    price: "0",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "Experte in der Implementierung von CRM-Systemen.",
+      "Fokus auf Lead-Generierungs- und Konversionsprozessen.",
     ],
   },
-  {
+  /* {
     id: "2",
     title: "Enterprise",
     description: "Custom AI chatbot, advanced analytics, dedicated account",
@@ -257,48 +255,50 @@ export const pricing = [
       "Personalized recommendations based on your preferences",
       "Ability to explore the app and its features without any cost",
     ],
-  },
+  }, */
 ];
 
 export const benefits = [
   {
     id: "0",
-    title: "1. Entdeckung und Prüfung",
-    text: "Wir tauchen tief in Ihr Unternehmen ein und identifizieren Bereiche, in denen Automatisierungen und Künstliche Intelligenz einen Unterschied machen können.",
+    title: "1. Analyse der Geschäftsprozesse",
+    text: "Erstellen einer Liste aller Tätigkeiten und Aufgaben, die im Unternehmen anfallen (z.B. Kundenbetreuung, Dokumentenerstellung, Terminplanung, Buchhaltung, Recherche, Projektmanagement, Kommunikation), Prozesserfassung: Analyse der Prozessabläufe hinsichtlich Effizienz und Wiederholbarkeit, Identifikation von manuellen, repetitiven und fehleranfälligen Aufgaben.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "2. Strategie",
-    text: "Aus unseren Erkenntnissen erstellen wir einen Plan. Dieser Plan stellt sicher, dass die Tools gut in Ihren Betrieb passen. Sie sind darauf ausgelegt, Ihre Aufgaben einfacher und effizienter zu gestalten.",
+    title: "2. Mögliche Automatisierungen identifizieren",
+    text: "Wiederkehrende Aufgaben: Dokumentenerstellung (Vorlagen, Berichte, Verträge). Termin- und Fristenverwaltung. Kommunikation (E-Mail-Vorlagen, Erinnerungen). Recherche und Informationssammlung. Administrative Tätigkeiten: Kundenaufnahme und -verwaltung. Zeit- und Kostenabrechnung. Buchhaltung und Zahlungsmanagement. Projekt- und Fallverwaltung: Aktenführung und -verwaltung. Dokumenten- und Dateimanagement. Kollaboration und Kommunikation innerhalb des Unternehmens und mit Kunden/Partnern.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,
   },
+
   {
     id: "2",
-    title: "3. Implementierung und Optimierung",
-    text: "Wir erwecken den Entwurf zum Leben, indem wir die KI-Chatbots und Automatisierungstools integrieren und sicherstellen, dass sie konsistent einen Mehrwert liefern. Diese Tools sind genau auf Ihre Bedürfnisse abgestimmt. Unser Ziel sind gleichbleibende Werte und reibungslose Abläufe.",
+    title: "3. Auswahl und Implementierung",
+    text: "Auswahl und Implementierung von Automatisierungslösungen zur Dokumentenerstellung, -speicherung und -verwaltung, automatisiertes Termin- und Fristenmanagement, verbesserte interne Kommunikation und Kollaboration durch automatisierte E-Mail-Benachrichtigungen und Vorlagen, automatisierte Kundenverwaltung und CRM-Funktionen, automatisierte Buchhaltung, Zahlungsabwicklung und Finanzberichte, automatisierte Recherche und Workflow- sowie Prozessautomatisierung.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
   {
     id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "4. Implementierung und Schulung",
+    text: "Implementierung ausgewählter Lösungen in einem Unternehmensbereich, Feedbacksammeln und Prozessanpassung, Schulung des Personals für neue Lösungen mit Materialien und Support, vollständige Implementierung auf Basis der Pilotphase-Erkenntnisse, Integration aller Systeme und Daten, kontinuierliche Überwachung, regelmäßige Anpassung zur Optimierung von Effizienz und Effektivität.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
     light: true,
   },
+
   {
     id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "5. Kontinuierliche Verbesserung",
+    text: "Regelmäßiges Feedback von Mitarbeitern und Kunden einholen, Prozesse entsprechend anpassen, auf neue Entwicklungen in der Automatisierungstechnologie achten, evaluieren und bei Mehrwert implementieren, sicherstellen, dass implementierte Lösungen mit dem Unternehmenswachstum skalierbar sind.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
