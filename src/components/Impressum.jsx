@@ -30,12 +30,12 @@ const Impressum = () => {
         <Heading tag="" title="Impressum" />
         <p className="text-center mb-6">Angaben gemäß § 5 TMG</p>
         <p className="p text-center mb-6">
-          DonAI <br />
           Dominik Niestroj <br />
           Vorderheide 11 <br />
           <p className="mb-8">59558 Lippstadt</p>
           Vertreten durch: <br />
-          Dominik Niestroj <br />
+          Dominik Niestroj und Eduard Bauer
+          <br />
           Kontakt: <br />
           Telefon: 0176-6886934 <br /> E-Mail: dominik.niestroj@gmail.com <br />
         </p>

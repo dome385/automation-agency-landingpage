@@ -47,7 +47,7 @@ export const navigation = [
   {
     id: "1",
     title: "Über Uns",
-    url: "#pricing",
+    url: "#ueberuns",
   },
   {
     id: "2",
